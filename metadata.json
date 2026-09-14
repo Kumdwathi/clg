@@ -1,0 +1,6 @@
+{
+  "name": "Solar Cold Storage PCB 3D Visualizer",
+  "description": "Ultra-realistic 3D PCB model, interactive video tour, circuit component inspection, and system wiring for solar-powered cold storage in North Eastern agriculture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
